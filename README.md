@@ -12,6 +12,7 @@ func main() {
 
 # Question 2
 
+```
 package main
 
 import (
@@ -23,10 +24,11 @@ func main() {
 
 	fmt.Println("Current Time: ", time.Now())
 }
-
-package main
+```
 
 # Question 3
+
+package main
 
 import (
 	"strconv"
