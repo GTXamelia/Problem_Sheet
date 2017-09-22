@@ -28,6 +28,7 @@ func main() {
 
 # Question 3
 
+```
 package main
 
 import (
@@ -50,3 +51,6 @@ func main() {
 		
 	}
 }
+```
+
+# Question 4
