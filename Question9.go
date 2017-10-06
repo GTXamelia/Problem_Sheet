@@ -4,9 +4,10 @@ import (
 	"fmt"
 )
 
-
-
 func main() {
-	fmt.Print("Initial")
+	z := 6.0
+	x := 2.0
+		z_next := z - ((z*z - x) / (2 * z))
+		fmt.Println(z_next)
 
 }
