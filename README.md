@@ -1,56 +1,7 @@
-# Question 1
 
-package main
 
-```
-import "fmt"
 
-func main() {
-	fmt.Println("Hello World!, こんにちは世界!")
-}
-```
-
-# Question 2
-
-```
-package main
-
-import (
-	"fmt"
-	"time"
-)
-
-func main() {
-
-	fmt.Println("Current Time: ", time.Now())
-}
-```
-
-# Question 3
-
-```
-package main
-
-import (
-	"strconv"
-	"fmt"
-)
-
-func main() {
-	
-	for i := 1; i < 100; i++ {
-
-		output := "";
-
-		if(i % 3 == 0){output = "Fizz";}
-		if(i % 5 == 0){output = "Buzz";}
-
-		if(output == ""){output = strconv.Itoa(i)}
-
-		fmt.Println(output)
-		
-	}
-}
-```
-
-# Question 4
+### Student Information:
+* ID: G00337022
+* Email: G00337022@gmit.ie
+* Name: Cian Gannon
