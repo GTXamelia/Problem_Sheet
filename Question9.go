@@ -29,7 +29,7 @@ func main() {
 	count++
 	}
 
-	// Square root is output to the user
+	// Square root is output to the user with UI
 	fmt.Printf("\n====================-Output-===================\n")
 	fmt.Printf("Square root of '%.0f' is: %.10f ", x, z)
 	fmt.Printf("\n===============================================\n")
