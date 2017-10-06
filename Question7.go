@@ -39,7 +39,7 @@ func main() {
 
 	}
 
-	// Outputs the result of the palindrome test to the user whether it failed or passed
+	// Outputs the result of the palindrome test to the user whether it failed or passed 
 	fmt.Printf("\n====================================================\n")
 	if(pal == len(text)-2){fmt.Printf("Palindrome!\nThat word is a palindrome with %d out of %d matching!", pal, pal)}
 	if(fail>0){fmt.Printf("That word is not a palindrome,\nthere were %d leters that did not match", fail)}
