@@ -1,4 +1,4 @@
-Alt-Problem Sheet 1
+Problem Sheet 1
 ======
 
 ### Statement:
