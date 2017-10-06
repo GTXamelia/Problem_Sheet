@@ -44,6 +44,4 @@ func main() {
 	if(pal == len(text)-2){fmt.Printf("Palindrome!\nThat word is a palindrome with %d out of %d matching!", pal, pal)}
 	if(fail>0){fmt.Printf("That word is not a palindrome,\nthere were %d leters that did not match", fail)}
 	fmt.Printf("\n====================================================\n")
-
-
 }
